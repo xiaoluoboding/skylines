@@ -1,6 +1,15 @@
-# GitHub Skyline
+# @xiaoluoboding's 2020 GitHub Skyline 
 
 My GitHub story in 3D. View a 3D model of your GitHub contribution graph.
+
+## ASCII ART
+
+```bash
+▁▁▁▁▁▁▁▁▁▁▁▄▅▂█▂▁▁▁▅▁▆▁▁▁█▁▁▅▁▇▁▁▅▁▁▁▁▁▂▂▁▃▃▁▂█▆▇█▁▁▂▂▅▂▃▂▃▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+█─▄▄▄▄█▄─▄█─▄─▄─█─█─█▄─██─▄█▄─▄─▀███─▄▄▄▄█▄─█─▄█▄─█─▄█▄─▄███▄─▄█▄─▀█▄─▄█▄─▄▄─█
+█─██▄─██─████─███─▄─██─██─███─▄─▀███▄▄▄▄─██─▄▀███▄─▄███─██▀██─███─█▄▀─███─▄█▀█
+▀▄▄▄▄▄▀▄▄▄▀▀▄▄▄▀▀▄▀▄▀▀▄▄▄▄▀▀▄▄▄▄▀▀▀▀▄▄▄▄▄▀▄▄▀▄▄▀▀▄▄▄▀▀▄▄▄▄▄▀▄▄▄▀▄▄▄▀▀▄▄▀▄▄▄▄▄▀
+```
 
 ## Stories
 
@@ -12,6 +21,13 @@ My GitHub story in 3D. View a 3D model of your GitHub contribution graph.
 * [2015](./xiaoluoboding-2015.stl)
 * [2014](./xiaoluoboding-2014.stl)
 * [2013](./xiaoluoboding-2013.stl)
+
+
+## ASCII 2020
+
+```bash
+         @xiaoluoboding's 2020 GitHub Skyline                  ✧    ✧       ▁                   ✧                            ✦☽  █                 ✦   ✦   █                          █                     ✦ ▄ █     ▂     ✧       ▂   ✧  █▆   ▁              ▃   █ █▄▃✦ ▅█▂   ▃✦✧▃▃▁▃▅▆█▂▁▅   ██ ▁ █▆▇▆▅ ▂▆▇▅▆▁▁  █▂▁ █▇███ ▁███▁█▁█▁████████████████▅███████▅███████▁▁█████████▅█    https://skyline.github.com/xiaoluoboding/2020    
+```
 
 ## Embedding
 
