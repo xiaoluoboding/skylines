@@ -13,7 +13,10 @@ My GitHub story in 3D. View a 3D model of your GitHub contribution graph.
 * [2014](./xiaoluoboding-2014.stl)
 * [2013](./xiaoluoboding-2013.stl)
 
+## 2020
+
+<script src="https://embed.github.com/view/3d/xiaoluoboding/skyline/maskter/xiaoluoboding-2020.stl"></script>
+
 ## License
 
 MIT [@xiaoluoboding](https://github.com/xiaoluoboding)
-
