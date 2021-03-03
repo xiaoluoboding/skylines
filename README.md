@@ -13,9 +13,23 @@ My GitHub story in 3D. View a 3D model of your GitHub contribution graph.
 * [2014](./xiaoluoboding-2014.stl)
 * [2013](./xiaoluoboding-2013.stl)
 
-## 2020
+## Embedding
 
-<script src="https://embed.github.com/view/3d/xiaoluoboding/skyline/maskter/xiaoluoboding-2020.stl"></script>
+To display your 3D file elsewhere on the internet, modify this template and place it on any HTML page that supports JavaScript:
+
+```html
+<script src="https://embed.github.com/view/3d/<username>/<repo>/<ref>/<path_to_file>"></script>
+```
+
+For example, if your model's URL is `https://github.com/xiaoluoboding/skyline/blob/main/xiaoluoboding-2020.stl`, your embed code would be:
+
+```html
+<script src="https://embed.github.com/view/3d/xiaoluoboding/skyline/master/xiaoluoboding-2020.stl"></script>
+```
+
+By default, the embedded renderer is 420 pixels wide by 620 pixels high, but you can customize the output by passing height and width variables as parameters at the end of the URL, such as `?height=300&width=500`.
+
+> Note: `ref` can be a branch or the hash to an individual commit (like 2391ae).
 
 ## License
 
