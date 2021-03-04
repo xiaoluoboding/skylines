@@ -1,15 +1,14 @@
 <template>
-  <skyline />
+  <skylines />
 </template>
 
 <script setup>
-import Skyline from './components/Skyline.vue'
+import Skylines from './components/Skylines.vue'
 </script>
 
 <style>
 html,
-body,
-#app {
+body {
   height: 100%;
 }
 
@@ -20,5 +19,6 @@ body {
 #app {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  height: 100%;
 }
 </style>
