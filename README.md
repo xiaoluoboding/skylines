@@ -1,36 +1,6 @@
-# @xiaoluoboding's 2020 GitHub Skylines
+# @xiaoluoboding's GitHub Skylines
 
 My GitHub story in 3D. View a 3D model of your GitHub contribution graph.
-
-## ASCII ART
-
-```bash
-
-
-        ▁▁▁▁▁▁▁▁▁▁▁▄▅▂█▂▁▁▁▅▁▆▁▁▁█▁▁▅▁▇▁▁▅▁▁▁▁▁▂▂▁▃▃▁▂█▆▇█▁▁▂▂▅▂▃▂▃▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
-        █─▄▄▄▄█▄─▄█─▄─▄─█─█─█▄─██─▄█▄─▄─▀███─▄▄▄▄█▄─█─▄█▄─█─▄█▄─▄███▄─▄█▄─▀█▄─▄█▄─▄▄─█
-        █─██▄─██─████─███─▄─██─██─███─▄─▀███▄▄▄▄─██─▄▀███▄─▄███─██▀██─███─█▄▀─███─▄█▀█
-        ▀▄▄▄▄▄▀▄▄▄▀▀▄▄▄▀▀▄▀▄▀▀▄▄▄▄▀▀▄▄▄▄▀▀▀▀▄▄▄▄▄▀▄▄▀▄▄▀▀▄▄▄▀▀▄▄▄▄▄▀▄▄▄▀▄▄▄▀▀▄▄▀▄▄▄▄▄▀
-              
-
-```
-
-
-## Preview
-
-![Skylines Preview](preivew.gif)
-
-## Stories
-
-* [2020](./xiaoluoboding-2020.stl)
-* [2019](./xiaoluoboding-2019.stl)
-* [2018](./xiaoluoboding-2018.stl)
-* [2017](./xiaoluoboding-2017.stl)
-* [2016](./xiaoluoboding-2016.stl)
-* [2015](./xiaoluoboding-2015.stl)
-* [2014](./xiaoluoboding-2014.stl)
-* [2013](./xiaoluoboding-2013.stl)
-
 
 ## ASCII 2020
 
@@ -46,6 +16,21 @@ My GitHub story in 3D. View a 3D model of your GitHub contribution graph.
 
     https://skyline.github.com/xiaoluoboding/2020     
 ```
+
+## Preview
+
+![Skylines Preview](preivew.gif)
+
+## Stories
+
+* [2020](./xiaoluoboding-2020.stl)
+* [2019](./xiaoluoboding-2019.stl)
+* [2018](./xiaoluoboding-2018.stl)
+* [2017](./xiaoluoboding-2017.stl)
+* [2016](./xiaoluoboding-2016.stl)
+* [2015](./xiaoluoboding-2015.stl)
+* [2014](./xiaoluoboding-2014.stl)
+* [2013](./xiaoluoboding-2013.stl)
 
 ## Embedding
 
