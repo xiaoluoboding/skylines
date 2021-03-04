@@ -1,4 +1,4 @@
-# @xiaoluoboding's 2020 GitHub Skyline 
+# @xiaoluoboding's 2020 GitHub Skylines
 
 My GitHub story in 3D. View a 3D model of your GitHub contribution graph.
 
@@ -14,6 +14,11 @@ My GitHub story in 3D. View a 3D model of your GitHub contribution graph.
               
 
 ```
+
+
+## Preview
+
+![Skylines Preview](preivew.gif)
 
 ## Stories
 
