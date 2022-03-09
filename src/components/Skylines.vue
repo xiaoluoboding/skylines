@@ -58,7 +58,7 @@
 <script>
 import { computed, defineComponent, ref } from 'vue'
 
-const BASE_EMBED_URL = 'https://render.githubusercontent.com/view/3d?color_mode=dark&url=https://raw.githubusercontent.com'
+const BASE_EMBED_URL = 'https://viewscreen.githubusercontent.com/view/solid?color_mode=dark&url=https%3a%2f%2fraw.githubusercontent.com'
 const BASE_SKYLINE_URL = 'https://skyline.github.com'
 
 export default defineComponent({
