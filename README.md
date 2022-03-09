@@ -23,6 +23,7 @@ My GitHub story in 3D. View a 3D model of your GitHub contribution graph.
 
 ## Stories
 
+* [2021](./xiaoluoboding-2021.stl)
 * [2020](./xiaoluoboding-2020.stl)
 * [2019](./xiaoluoboding-2019.stl)
 * [2018](./xiaoluoboding-2018.stl)
