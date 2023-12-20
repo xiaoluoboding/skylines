@@ -2,8 +2,8 @@
   <skylines />
 </template>
 
-<script setup>
-import Skylines from './components/Skylines.vue'
+<script setup lang="ts">
+import Skylines from '@/components/Skylines.vue'
 </script>
 
 <style>
@@ -13,7 +13,7 @@ body {
 }
 
 body {
-  background-image: radial-gradient(50% 100%,#180526 0,#040e21 100%);
+  background-image: radial-gradient(50% 100%, #180526 0, #040e21 100%);
 }
 
 #app {
